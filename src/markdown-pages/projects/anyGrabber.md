@@ -1,28 +1,19 @@
 ---
 slug: "projects/anygrabber"
 nameOfClass: "projects-items"
-title: "AnyGrabber"
-added: "2023-07-14"
-listName: "🔍 /AnyGrabber"
+title: "Phishing Page-Gmail"
+added: "2023-05-04"
+listName: "🔍 /Phishing Page-Gmail"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/Kielx/anygrabber/master/assets_readme/screenshot1.png"
 popupImageAlt: "App screenshot"
-popupGithubLink: "https://github.com/Kielx/AnyGrabber"
+popupGithubLink: "https://github.com/ilyshoaib/gmail_phishing_page"
 techIcons: [
-        "python",
+        "css3",
+        "html5",
       ]
 ---
 
-AnyGrabber simplifies the process of searching for AnyDesk logs, extracting relevant data concerning IP addresses used
-for logging in, along with corresponding dates. It also generates .txt and .csv reports based on the data retrieved. The user-friendly interface and localization features make it easy for anyone to use, regardless of technical proficiency. It's portable and can be used on any modern Windows machine without the need for
-installation.
+In my web application security end-semester project, I developed a realistic Gmail phishing page using HTML, CSS, JavaScript, and PHP. The project aimed to raise awareness about phishing attacks and their potential risks. It simulated a targeted attack by distributing the phishing page to specific users via social engineering. The page resembled the legitimate Gmail login interface, tricking users into entering their credentials. This project allowed me to explore web application security, frontend design, backend functionality, and ethical considerations related to phishing simulations.
 
-## Key Features
 
-- Search for logs in default and custom locations
-- Extraction of login date and IP address/es
-- Generation of checksums for retrieved files
-- Creation of .txt and .csv reports based on found data
-- Support for English and Polish languages
-- User-friendly interface
-- Portable
