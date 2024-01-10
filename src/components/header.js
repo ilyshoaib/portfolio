@@ -29,10 +29,10 @@ const Header = ({ siteTitle }) => {
                   .typeString("Cyber Security Engineer")
                   .pauseFor(2500)
                   .deleteAll()
-                  .typeString("Problem solver")
+                  .typeString("AI Enthusiast 🧥")
                   .pauseFor(2500)
                   .deleteAll()
-                  .typeString("Krzysztof Pantak")
+                  .typeString("Shoaib Ahmad")
                   .callFunction(() => {
                     setIsLoaded(true)
                   })
