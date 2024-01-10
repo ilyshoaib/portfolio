@@ -1,17 +1,22 @@
 ---
-slug: "projects/insurance-company-database"
+slug: "projects/PdftextEditor"
 nameOfClass: "projects-items"
-title: "Insurance Company Database"
+title: "PdftextEditor"
 added: "2023-01-14"
-listName: "💾 /Insurance-DB"
+listName: "💾 /PdftextEditor"
 video: "false"
 popupImageSrc: "https://raw.githubusercontent.com/Kielx/Insurance-company-database/master/images/data_warehouse.png"
 popupImageAlt: "App screenshot"
-popupGithubLink: "https://github.com/Kielx/Insurance-company-database"
+popupGithubLink: "https://github.com/ilyshoaib/PdftextEditor"
 techIcons: [
-        "oracle",
         "python",
       ]
 ---
 
-The goal of the project was to create a fragment of an insurance company's database and a data warehouse based on it. The database contains information about the insurance company's customers, employees and branches, as well as the insurance policies between these entities. The database and warehouse designed this way allows for easy visualization and development of summaries of the work of all branches, employees, as well as policies taken by clients. The assumption is that a company can offer different types of policies - e.g., home insurance, vehicle insurance - and each customer can take out an unlimited number of policies. The project was developed entirely in the environment offered by Oracle, using SQL Developer and SQL Developer Data Modeler, as well as the SQL*Loader tool. The scripts generating the data with which the database was fed were written in Python using the Faker library.
+Welcome to the PDF Text Editor project! This project was developed as part of our Operating System course in the 4th semester. The aim of this project was to create a simple text editor application that allows users to perform various operations on PDF files.
+
+The PDF Text Editor provides a user-friendly graphical interface for performing tasks such as creating new PDF files, opening existing ones, editing text, adding images, cropping images, rotating pages, deleting pages, merging PDF files, and splitting PDF files. The application leverages the power of Python and several libraries, such as PyPDF2, Pillow, and reportlab, to achieve these functionalities.
+
+By working on this project, we gained valuable insights into file handling, GUI development, PDF manipulation, and the overall implementation of an application in Python. We also improved our understanding of various operating system concepts, including file systems, process management, and user interfaces.
+
+
