@@ -1,5 +1,5 @@
 ---
-slug: "projects/anygrabber"
+slug: "projects/Page-Gmail"
 nameOfClass: "projects-items"
 title: "Phishing Page-Gmail"
 added: "2023-05-04"
