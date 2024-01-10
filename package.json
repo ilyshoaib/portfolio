@@ -1,9 +1,9 @@
 {
-  "name": "kielx-portfolio",
+  "name": "ilyshoaib-portfolio",
   "private": true,
-  "description": "Krzysztof Pantak software developer portfolio",
+  "description": "Shoaib Ahmad Cyber Enthusiast 🧥 Portfolio",
   "version": "0.1.0",
-  "author": "Krzysztof Pantak <kielx.dev@gmail.com>",
+  "author": "Shoaib Ahmad <dashoaibahmad@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
