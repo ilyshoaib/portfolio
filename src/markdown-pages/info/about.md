@@ -33,7 +33,7 @@ techIcons: [
       ]
 ---
 
-## Krzysztof Pantak
+## Shoaib Ahmad
 
 - 💡 Well-rounded software engineer with skills in several programming languages. Passionate about creating a variety of applications, looking at programming as a way to solve problems and new interesting challenges. Ready to take on new projects and collaborate on innovative solutions.
 - 👨‍🎓 Final-year CS Student at the Kielce University of Technology. 
