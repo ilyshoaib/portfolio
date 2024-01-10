@@ -36,5 +36,5 @@ techIcons: [
 ## Shoaib Ahmad
 
 - 💡 I am a passionate individual with a strong interest in hacking, artificial intelligence, and cybersecurity. With expertise in penetration testing and ethical hacking, I am dedicated to ensuring the security and integrity of digital systems in the cyber space. I am also a firm believer in the potential of blockchain technology and actively invest in it.
-- 👨‍🎓 Final-year CS Student at the Air University. 
+- 👨‍🎓 Final-year Cyber Security Student at the Air University. 
 - ⚡ Securing your online presence at OffensioX. 
