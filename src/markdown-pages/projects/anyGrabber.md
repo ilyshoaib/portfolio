@@ -5,7 +5,7 @@ title: "Phishing Page-Gmail"
 added: "2023-05-04"
 listName: "🔍 /Phishing Page-Gmail"
 video: "false"
-popupImageSrc: "https://raw.githubusercontent.com/Kielx/anygrabber/master/assets_readme/screenshot1.png"
+popupImageSrc: "https://github.com/ilyshoaib/gmail_phishing_page/assets/94924310/7af734ad-2bca-46e9-a54a-f6f56457641c"
 popupImageAlt: "App screenshot"
 popupGithubLink: "https://github.com/ilyshoaib/gmail_phishing_page"
 techIcons: [
