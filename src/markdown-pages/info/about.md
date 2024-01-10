@@ -5,7 +5,7 @@ listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "mojephoto.jpg"
 popupImageAlt: "Cartoon photo of myself"
-popupGithubLink: "https://github.com/Kielx"
+popupGithubLink: "https://github.com/ilyshoaib"
 techIcons: [
         "javascript",
         "nodedotjs",
