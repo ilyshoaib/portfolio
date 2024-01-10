@@ -58,7 +58,7 @@ const Footer = () => {
         )}
         {" | "}
         <a
-          href="https://www.github.com/Kielx"
+          href="https://www.github.com/ilyshoaib"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -73,8 +73,7 @@ const Footer = () => {
           paddingBottom: "10px",
         }}
       >
-        © 2021-{new Date().getFullYear()} Krzysztof Pantak {" | "} Source code
-        distributed under MIT License
+        © 2023-{new Date().getFullYear()} Shoaib Ahmad Portfolio
       </span>
     </footer>
   )
