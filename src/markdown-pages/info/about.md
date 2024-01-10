@@ -35,6 +35,6 @@ techIcons: [
 
 ## Shoaib Ahmad
 
-- 💡 Well-rounded software engineer with skills in several programming languages. Passionate about creating a variety of applications, looking at programming as a way to solve problems and new interesting challenges. Ready to take on new projects and collaborate on innovative solutions.
-- 👨‍🎓 Final-year CS Student at the Kielce University of Technology. 
-- ⚡ Creating applications in JavaScript, TypeScript, C, C++, Python and lately experimenting with C# and .Net. 
+- 💡 I am a passionate individual with a strong interest in hacking, artificial intelligence, and cybersecurity. With expertise in penetration testing and ethical hacking, I am dedicated to ensuring the security and integrity of digital systems in the cyber space. I am also a firm believer in the potential of blockchain technology and actively invest in it.
+- 👨‍🎓 Final-year CS Student at the Air University. 
+- ⚡ Securing your online presence at OffensioX. 
