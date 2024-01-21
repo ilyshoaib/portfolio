@@ -1,7 +1,7 @@
 ---
 slug: "projects/banksys"
 nameOfClass: "projects-items"
-title: "Mini Banking Database Management System"
+title: "Banking Database Management System"
 added: "2023-12-20"
 video: "false"
 listName: "🎯 /BankingSystem"
