@@ -9,7 +9,7 @@ popupImageSrc: "https://github.com/ilyshoaib/magichex/assets/94924310/380ffb52-e
 popupImageAlt: "App screenshot"
 popupGithubLink: "https://github.com/ilyshoaib/magichex"
 techIcons: [
-        "python3",
+        "python",
       ]
 ---
 
