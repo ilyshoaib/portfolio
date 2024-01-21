@@ -7,7 +7,6 @@ listName: "📸 /MagicHex"
 video: "false"
 popupImageSrc: "https://github.com/ilyshoaib/magichex/assets/94924310/380ffb52-edea-4cd2-82e7-97659d87cc3e"
 popupImageAlt: "App screenshot"
-popupLiveLink: "https://my-unsplash-mu.vercel.app/"
 popupGithubLink: "https://github.com/ilyshoaib/magichex"
 techIcons: [
         "python3",
